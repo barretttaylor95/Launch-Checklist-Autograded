@@ -1,3 +1,17 @@
+
+/*just for funsies */
+body {
+   background-image: url('nickelback-background.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center center;
+}
+
+#launchForm, #launchStatusCheck, #missionTarget {
+   background-color: rgba(236, 240, 241, 0.8); 
+}
+
 h1 {
    text-align: center;
 }
